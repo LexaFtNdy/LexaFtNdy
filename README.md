@@ -7,7 +7,7 @@
 
 | | Project | Description |
 |---|---|---|
-| 🎓 | **ExSAO** | Multi-tenant CBT SaaS — 600+ concurrent sessions |
+| 🎓 | **ExSAO** | Multi-tenant CBT SaaS |
 | 🤖 | **SAO** | AI attendance — FaceNet + MTCNN face recognition, adaptive monitoring & anomaly detection |
 | 💳 | **NFR Vault** | Digital top-up & transaction platform |
 | 📊 | **SFA** | Sales force automation with GPS & commission engine |
